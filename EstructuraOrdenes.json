@@ -1,0 +1,22 @@
+{
+  "OrderID": 123789,
+  "Address": "242 Calle Urquiza, Ciudad Mendoza, Pais Argentina",
+  "Status": "En camino",
+  "Articles": [
+    {
+      "Name": "Producto 1",
+      "Quantity": 2,
+      "Dangerous": false
+    },
+    {
+      "Name": "Producto 2",
+      "Quantity": 1,
+      "Dangerous": true
+    },
+    {
+      "Name": "Producto 3",
+      "Quantity": 5,
+      "Dangerous": false
+    }
+  ]
+}
